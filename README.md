@@ -1,2 +1,46 @@
-# Breast-Cancer-Prediction
-Machine Learning project for breast cancer diagnosis prediction using KNN, Naive Bayes, Perceptron and K-Means clustering.
+Breast Cancer Prediction using Machine Learning
+Overview
+
+This project predicts whether a breast tumor is malignant or benign using machine learning algorithms.
+
+The project includes data preprocessing, model training, evaluation, comparison, and visualization.
+
+Technologies Used
+Python
+Pandas
+NumPy
+Scikit-Learn
+Matplotlib
+Dataset Information
+Total Samples: 569
+Features: 30
+Target Variable: Diagnosis (Malignant/Benign)
+Models Implemented
+K-Nearest Neighbors (KNN)
+Gaussian Naive Bayes
+Perceptron
+K-Means Clustering
+Results
+Model	Accuracy
+KNN	95.61%
+Naive Bayes	97.37%
+Perceptron	86.84%
+Best Model
+
+Naive Bayes achieved the highest accuracy of 97.37%.
+
+Visualizations
+Model Comparison Chart
+Feature Correlation Matrix
+Key Features
+Data preprocessing
+Classification report
+Confusion matrix
+Model comparison
+Correlation analysis
+Data visualization
+Author
+
+Prachi Pradhan
+
+B.Tech Biotechnology, NIT Rourkela
